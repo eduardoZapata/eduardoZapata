@@ -49,7 +49,7 @@ _Unfortunately screenshots are unavailable for the following features :(_
 Built and released initial version of a video chat client which allowed users to call their doctor. Built with React Native and used the [Opentok](https://github.com/opentok/opentok-react-native) sdk
 
 **Mobile survey renderer**
-Built dynamic intake survey renderer which ingested structured data, handled form input, and rendered UI components for various form field types (text, checkboxes, dropdowns, etc). This allowed product managers to create and release new surveys on mobile to users using telemedicine without writing any code. Built with React Native
+Built mobile counterpart to legacy survey platform, creating extensible system for dynamic form generation. Developed reusable UI components for multiple field types (text, checkboxes, dropdowns, etc), enabling Product Managers to launch surveys on mobile to users using telemedicine without engineering support through scalable technical abstractions. Built with React Native
 
 
 
