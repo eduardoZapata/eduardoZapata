@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/2a76f385-2a46-46d4-9fce-0e9c93624d0e
 
 
 **Multi-enum input:**
-Input for Asana multi enum fields where users can select one or more values from a list, and then have them appear within the cell. Users can use mouse or keyboard to select items from the list. They can also use text search to find their item
+Input for Asana multi enum fields where users can select one or more values from a list, and then have them appear within the cell. Users can use mouse or keyboard to select items from the list. They can also use text search to find their item. This input can support users who add up to ~1000 options and render them in a performant manner.
 
 https://github.com/user-attachments/assets/908c9d7e-10ca-4c46-964f-82b80d831850
 
