@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 _Note: All inputs were implemented to meet WCAG 2.1 AA accessibility standards_
 
 **Rollup number input:**
-Input for Asana number field where users can simultaniously view multiple values within one cell.
+Input for Asana number field where users can simultaneously view multiple values within one cell.
 The unhovered value is the "rollup" value which the value of the current cell + it's children (the subtasks).
 On hover, the rollup value moves to the left hand side, and the true value of the cell appears and is editable.
 On expansion, the cell input changes to the default number input cell.
